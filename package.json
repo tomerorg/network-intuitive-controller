@@ -1,0 +1,13 @@
+{
+  "name": "network-intuitive-controller",
+  "version": "1.0.0",
+  "description": "TypeScript and Express and React based network controller in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
